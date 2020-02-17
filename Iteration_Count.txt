@@ -1,0 +1,8 @@
+Out of all the possible 9990 integers, 
+     384 integers need 1 iteration.
+     576 integers need 2 iterations.
+    2400 integers need 3 iterations.
+    1272 integers need 4 iterations.
+    1518 integers need 5 iterations.
+    1656 integers need 6 iterations.
+    2184 integers need 7 iterations.
